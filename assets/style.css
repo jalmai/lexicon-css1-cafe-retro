@@ -13,3 +13,22 @@ background-image: url("/assets/hot.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
+ul{
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    list-style: none;   display: inline-block;
+    width: 100px;
+    text-align: center;
+;
+}
+header{
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    background-color: rgba(15, 0, 34, 0.7);
+
+}
