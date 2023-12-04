@@ -1,0 +1,15 @@
+.hot{
+background-image: url("/assets/cosy.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.juicy{
+background-image: url("/assets/juicy.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.cosy{
+background-image: url("/assets/hot.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
